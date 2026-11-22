@@ -8,8 +8,7 @@
 
 <br/>
 
-![GitHub](https://img.shields.io/badge/GitHub-16082B?style=for-the-badge&logo=github&logoColor=BFA2FF)
-![Profile Views](https://komarev.com/ghpvc/?username=gabrielli-apx&style=for-the-badge&color=54268C&label=PROFILE+VIEWS)
+[![GitHub](https://img.shields.io/badge/GitHub-16082B?style=for-the-badge&logo=github&logoColor=BFA2FF)](https://github.com/gabrielli-apx)
 
 </div>
 
@@ -25,15 +24,14 @@ Além da tecnologia, gosto de ler, descobrir coisas novas e ampliar meus conheci
 
 Acredito que cada conhecimento adquirido abre portas para novas possibilidades. Estou sempre buscando aprender, experimentar e evoluir.
 
+**"Curiosity drives innovation. Learning never stops."**
 
 ---
 
 
 
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,figma,gimp,vscode,github&theme=dark" />
-
+  <img src="https://skillicons.dev/icons?i=html,css,js,figma,gimp,vscode,github&theme=dark" height="45" />
 </div>
 
 ---
@@ -42,15 +40,9 @@ Acredito que cada conhecimento adquirido abre portas para novas possibilidades. 
 
 <div align="center">
 
-<a href="https://github.com/gabrielli-apx">
-<img src="https://img.shields.io/badge/GitHub-16082B?style=for-the-badge&logo=github&logoColor=BFA2FF"/>
-</a>
-<a href="https://www.linkedin.com/in/gabrielli-aparecida-dias/">
-<img src="https://img.shields.io/badge/LinkedIn-16082B?style=for-the-badge&logo=linkedin&logoColor=BFA2FF"/>
-</a>
-<a href="mailto:gabrielli.dias1208@gmail.com">
-<img src="https://img.shields.io/badge/Email-16082B?style=for-the-badge&logo=gmail&logoColor=BFA2FF"/>
-</a>
+<a href="https://github.com/gabrielli-apx"><img src="https://img.shields.io/badge/GitHub-16082B?style=for-the-badge&logo=github&logoColor=BFA2FF"/></a>
+<a href="https://www.linkedin.com/in/gabrielli-aparecida-dias/"><img src="https://img.shields.io/badge/LinkedIn-16082B?style=for-the-badge&logo=linkedin&logoColor=BFA2FF"/></a>
+<a href="mailto:gabrielli.dias1208@gmail.com"><img src="https://img.shields.io/badge/Email-16082B?style=for-the-badge&logo=gmail&logoColor=BFA2FF"/></a>
 
 </div>
 
