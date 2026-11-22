@@ -20,7 +20,7 @@ Além da tecnologia, gosto de ler, descobrir coisas novas e ampliar meus conheci
 
 Acredito que cada conhecimento adquirido abre portas para novas possibilidades. Estou sempre buscando aprender, experimentar e evoluir.
 
-**"Curiosity drives innovation. Learning never stops."**
+
 
 ---
 
