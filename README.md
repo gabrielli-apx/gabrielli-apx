@@ -6,10 +6,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3000&pause=1000&color=BFA2FF&center=true&vCenter=true&width=600&lines=Knowledge+takes+us+far." alt="Knowledge takes us far"/>
 
-<br/>
-
-[![GitHub](https://img.shields.io/badge/GitHub-16082B?style=for-the-badge&logo=github&logoColor=BFA2FF)](https://github.com/gabrielli-apx)
-
 </div>
 
 ---
@@ -29,19 +25,20 @@ Acredito que cada conhecimento adquirido abre portas para novas possibilidades. 
 ---
 
 
-
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,figma,gimp,vscode,github&theme=dark" height="45" />
+
+<img src="https://skillicons.dev/icons?i=html,css,js,figma,gimp&theme=dark" height="45" />
+
 </div>
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <div align="center">
 
 <a href="https://github.com/gabrielli-apx"><img src="https://img.shields.io/badge/GitHub-16082B?style=for-the-badge&logo=github&logoColor=BFA2FF"/></a>
-<a href="https://www.linkedin.com/in/gabrielli-aparecida-dias/"><img src="https://img.shields.io/badge/LinkedIn-16082B?style=for-the-badge&logo=linkedin&logoColor=BFA2FF"/></a>
+<a href="https://www.linkedin.com/in/gabrielli-aparecida-dias-8265943b5"><img src="https://img.shields.io/badge/LinkedIn-16082B?style=for-the-badge&logo=linkedin&logoColor=BFA2FF"/></a>
 <a href="mailto:gabrielli.dias1208@gmail.com"><img src="https://img.shields.io/badge/Email-16082B?style=for-the-badge&logo=gmail&logoColor=BFA2FF"/></a>
 
 </div>
