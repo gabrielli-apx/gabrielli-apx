@@ -29,7 +29,7 @@ Sou apaixonada por tecnologia e sempre tive curiosidade em entender como as cois
 
 Além da tecnologia, gosto de ler, descobrir coisas novas e ampliar meus conhecimentos. Acredito que aprender é um processo contínuo e que cada projeto representa uma nova oportunidade de evolução.
 
-**Meu objetivo:** transformar curiosidade em conhecimento e conhecimento em soluções.
+
 
 ---
 
