@@ -1,15 +1,15 @@
-
+# GABRIELLI DIAS
 
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=180&color=0:16082B,50:54268C,100:9B72CF&text=Gabrielli%20Dias&fontColor=FFFFFF&fontSize=58&fontAlignY=50&animation=fadeIn" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3000&pause=1000&color=BFA2FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Technology+%7C+Creativity+%7C+Development;Always+curious%2C+always+learning.;Turning+ideas+into+reality." alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3000&pause=1000&color=BFA2FF&center=true&vCenter=true&width=600&lines=O+conhecimento+nos+leva+longe." alt="O conhecimento nos leva longe"/>
 
 <br/>
 
 ![GitHub](https://img.shields.io/badge/GitHub-16082B?style=for-the-badge&logo=github&logoColor=BFA2FF)
-![Profile Views](https://komarev.com/ghpvc/?username=SEU-USUARIO&style=for-the-badge&color=54268C&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=gabrielli-apx&style=for-the-badge&color=54268C&label=PROFILE+VIEWS)
 
 </div>
 
@@ -29,11 +29,11 @@ Acredito que cada conhecimento adquirido abre portas para novas possibilidades. 
 
 ---
 
-## ⚙️ Tech Stack
+
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,figma,gimp,vscode,git,github,windows&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,figma,gimp,vscode,github&theme=dark" />
 
 </div>
 
@@ -43,15 +43,15 @@ Acredito que cada conhecimento adquirido abre portas para novas possibilidades. 
 
 <div align="center">
 
-<a href="https://github.com/SEU-USUARIO">
+<a href="https://github.com/gabrielli-apx">
 <img src="https://img.shields.io/badge/GitHub-16082B?style=for-the-badge&logo=github&logoColor=BFA2FF"/>
 </a>
 
-<a href="https://www.linkedin.com/in/SEU-LINKEDIN/">
+<a href="https://www.linkedin.com/in/gabrielli-aparecida-dias/">
 <img src="https://img.shields.io/badge/LinkedIn-16082B?style=for-the-badge&logo=linkedin&logoColor=BFA2FF"/>
 </a>
 
-<a href="mailto:SEU-EMAIL">
+<a href="mailto:gabrielli.dias1208@gmail.com">
 <img src="https://img.shields.io/badge/Email-16082B?style=for-the-badge&logo=gmail&logoColor=BFA2FF"/>
 </a>
 
