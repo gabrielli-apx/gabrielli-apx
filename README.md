@@ -10,7 +10,7 @@
 
 ---
 
-## 👩🏻‍💻 About Me
+##  𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 
 Olá! Sou estudante do **Instituto Federal Catarinense (IFC) – Campus Araquari**, cursando o Técnico em Informática.
 
@@ -33,7 +33,7 @@ Acredito que cada conhecimento adquirido abre portas para novas possibilidades. 
 
 ---
 
-## Connect With Me
+## 𝙲𝚘𝚗𝚗𝚎𝚌𝚝 𝚆𝚒𝚝𝚑 𝙼𝚎
 
 <div align="center">
 
@@ -49,9 +49,9 @@ Acredito que cada conhecimento adquirido abre portas para novas possibilidades. 
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=90&color=0:16082B,100:54268C&section=footer"/>
 
-**Thanks for visiting my profile!**
+**"𝙾𝚟𝚎𝚛 𝚊𝚗𝚍 𝚘𝚞𝚝."**
 
-*Made with curiosity, creativity and code.*
+*"ᵐʸ ᵖʳⁱᶜᵉ ⁱˢ ᵘⁿⁿᵃᵐᵉᵃᵇˡᵉ".*
 
 <sub>© 2026 Gabrielli Dias | All rights reserved.</sub>
 
