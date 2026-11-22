@@ -59,29 +59,8 @@ Além da tecnologia, gosto de ler, descobrir coisas novas e ampliar meus conheci
 
 ---
 
-## 📊 GITHUB ANALYTICS | ESTATÍSTICAS
 
-<div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=transparent&hide_border=true&title_color=00E5FF&icon_color=9D4EDD&text_color=C9D1D9&rank_icon=github" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=transparent&hide_border=true&title_color=00E5FF&text_color=C9D1D9" />
-
-<br/>
-
-<img width="70%" src="https://streak-stats.demolab.com?user=SEU-USUARIO&theme=transparent&hide_border=true&ring=00E5FF&fire=9D4EDD&currStreakLabel=00E5FF&sideLabels=C9D1D9&dates=888888" />
-
-</div>
-
----
-
-## 📈 CONTRIBUTION ACTIVITY
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU-USUARIO&bg_color=0D1117&color=00E5FF&line=9D4EDD&point=FFFFFF&area=true&hide_border=true" width="100%"/>
-
-</div>
 
 ---
 
